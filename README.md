@@ -179,4 +179,4 @@ O projeto segue a filosofia **Warm Minimalism / Modern Craft**:
 
 ---
 
-*BarberPro v1.0.0 — Sistema de Agendamento Online para Barbearia*
+*BarbeariaJKv1.0.0 — Sistema de Agendamento Online para Barbearia*
